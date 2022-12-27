@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4faca9-5453-4956-9efd-cb7799d9f1f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/diziMaxMin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Letter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.diziMaxMin.Main">
+  <component name="RunManager" selected="Application.Letter">
     <configuration name="HarmonikOrtalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ortalamaBulmaDizi.HarmonikOrtalama" />
       <module name="PatikaDevJava101" />
@@ -72,6 +72,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Letter" />
+      <module name="PatikaDevJava101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,33 +116,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maasHesap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maasHesap.Main" />
-      <module name="PatikaDevJava101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="maasHesap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Letter" />
       <item itemvalue="Application.diziMaxMin.Main" />
       <item itemvalue="Application.LetterCapitalize.Main" />
-      <item itemvalue="Application.maasHesap.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.HarmonikOrtalama" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Letter" />
         <item itemvalue="Application.diziMaxMin.Main" />
         <item itemvalue="Application.HarmonikOrtalama" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.LetterCapitalize.Main" />
-        <item itemvalue="Application.maasHesap.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +159,7 @@
       <workItem from="1668866820862" duration="1667000" />
       <workItem from="1668868511919" duration="5416000" />
       <workItem from="1670154168166" duration="623000" />
-      <workItem from="1672149990913" duration="5433000" />
+      <workItem from="1672149990913" duration="7300000" />
     </task>
     <task id="LOCAL-00001" summary="PATİKA DEV ODEV">
       <created>1668869643538</created>
@@ -174,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668869643538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PATİKA DEV ODEV">
+      <created>1672161866394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672161866394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
