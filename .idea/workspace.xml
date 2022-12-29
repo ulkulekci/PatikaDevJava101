@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4faca9-5453-4956-9efd-cb7799d9f1f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TekrarCiftSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElemanSırası.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,14 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.TekrarCiftSayi">
+  <component name="RunManager" selected="Application.ElemanSırası">
+    <configuration name="ElemanSırası" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElemanSırası" />
+      <module name="PatikaDevJava101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HarmonikOrtalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ortalamaBulmaDizi.HarmonikOrtalama" />
       <module name="PatikaDevJava101" />
@@ -78,13 +85,6 @@
     </configuration>
     <configuration name="Letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Letter" />
-      <module name="PatikaDevJava101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="PatikaDevJava101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,19 +111,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ElemanSırası" />
       <item itemvalue="Application.TekrarCiftSayi" />
       <item itemvalue="Application.Letter" />
       <item itemvalue="Application.diziMaxMin.Main" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.HarmonikOrtalama" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElemanSırası" />
         <item itemvalue="Application.TekrarCiftSayi" />
         <item itemvalue="Application.Letter" />
         <item itemvalue="Application.diziMaxMin.Main" />
         <item itemvalue="Application.HarmonikOrtalama" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,7 @@
       <workItem from="1670154168166" duration="623000" />
       <workItem from="1672149990913" duration="8533000" />
       <workItem from="1672235233712" duration="4648000" />
-      <workItem from="1672313391547" duration="1301000" />
+      <workItem from="1672313391547" duration="11408000" />
     </task>
     <task id="LOCAL-00001" summary="PATİKA DEV ODEV">
       <created>1668869643538</created>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672164262342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PATİKA DEV ODEV">
+      <created>1672319072770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672319072770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
