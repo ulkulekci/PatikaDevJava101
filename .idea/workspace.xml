@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c4faca9-5453-4956-9efd-cb7799d9f1f8" name="Changes" comment="" />
+    <list default="true" id="9c4faca9-5453-4956-9efd-cb7799d9f1f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Palindromik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.SayiTahmin">
+  <component name="RunManager" selected="Application.Palindromik">
     <configuration name="ElemanFrekans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElemanFrekans" />
       <module name="PatikaDevJava101" />
@@ -81,6 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindromik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindromik" />
+      <module name="PatikaDevJava101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SayiTahmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SayiTahmin" />
       <module name="PatikaDevJava101" />
@@ -88,27 +98,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TekrarCiftSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TekrarCiftSayi" />
-      <module name="PatikaDevJava101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Palindromik" />
       <item itemvalue="Application.SayiTahmin" />
       <item itemvalue="Application.Matris" />
       <item itemvalue="Application.ElemanFrekans" />
       <item itemvalue="Application.ElemanSırası" />
-      <item itemvalue="Application.TekrarCiftSayi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindromik" />
         <item itemvalue="Application.SayiTahmin" />
         <item itemvalue="Application.Matris" />
         <item itemvalue="Application.ElemanFrekans" />
         <item itemvalue="Application.ElemanSırası" />
-        <item itemvalue="Application.TekrarCiftSayi" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +147,7 @@
       <workItem from="1672507914928" duration="6451000" />
       <workItem from="1672533366573" duration="2291000" />
       <workItem from="1672666219439" duration="6083000" />
+      <workItem from="1672770407977" duration="796000" />
     </task>
     <task id="LOCAL-00001" summary="PATİKA DEV ODEV">
       <created>1668869643538</created>
@@ -201,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672684181802</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesi">
+      <created>1672770596834</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672770596834</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +223,7 @@
     <MESSAGE value="dizideki elemanları küçükten büyüğe sıralayan program" />
     <MESSAGE value="Java dilinde, dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan program" />
     <MESSAGE value="çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan program" />
-    <option name="LAST_COMMIT_MESSAGE" value="çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan program" />
+    <MESSAGE value="0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesi" />
+    <option name="LAST_COMMIT_MESSAGE" value="0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesi" />
   </component>
 </project>
