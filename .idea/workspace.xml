@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4faca9-5453-4956-9efd-cb7799d9f1f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Palindromik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mayınTarlası/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mayınTarlası/MayınTarlası.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindromik">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ElemanFrekans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ElemanFrekans" />
       <module name="PatikaDevJava101" />
@@ -70,9 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElemanSırası" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElemanSırası" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mayınTarlası.Main" />
       <module name="PatikaDevJava101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mayınTarlası.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,19 +106,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Palindromik" />
       <item itemvalue="Application.SayiTahmin" />
       <item itemvalue="Application.Matris" />
       <item itemvalue="Application.ElemanFrekans" />
-      <item itemvalue="Application.ElemanSırası" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Palindromik" />
         <item itemvalue="Application.SayiTahmin" />
         <item itemvalue="Application.Matris" />
         <item itemvalue="Application.ElemanFrekans" />
-        <item itemvalue="Application.ElemanSırası" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +154,7 @@
       <workItem from="1672507914928" duration="6451000" />
       <workItem from="1672533366573" duration="2291000" />
       <workItem from="1672666219439" duration="6083000" />
-      <workItem from="1672770407977" duration="796000" />
+      <workItem from="1672770407977" duration="7292000" />
     </task>
     <task id="LOCAL-00001" summary="PATİKA DEV ODEV">
       <created>1668869643538</created>
@@ -212,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672770596834</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Palindromik Kelime">
+      <created>1672771297821</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672771297821</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +238,7 @@
     <MESSAGE value="Java dilinde, dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan program" />
     <MESSAGE value="çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan program" />
     <MESSAGE value="0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesi" />
-    <option name="LAST_COMMIT_MESSAGE" value="0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesi" />
+    <MESSAGE value="Palindromik Kelime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindromik Kelime" />
   </component>
 </project>
